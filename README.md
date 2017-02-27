@@ -5,7 +5,7 @@ This is only for test to understand GITHub
 *Just to learn something new*
 
 **My Preferences**
-1. Learn New Technologies
+1. Learn New Technologies.
 2. Implement with New Technologies
 3. Build something re-usable
 4. Build framework to ease repeatative builds
