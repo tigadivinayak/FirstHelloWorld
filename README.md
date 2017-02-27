@@ -10,5 +10,5 @@ This is only for test to understand GITHub
 2. Implement with New Technologies
 3. Build something re-usable
 4. Build framework to ease repeatative builds
-5. Build innovate solutions into real solution
+5. Build innovate ideas into real solutions
 6. Master the learning
